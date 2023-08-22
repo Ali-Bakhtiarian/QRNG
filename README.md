@@ -4,3 +4,5 @@
 - Analog signal amplifier
 - FPGA signal processing and a UART-transmitter
 - UART-reciever on a PC
+
+some changes to the file
